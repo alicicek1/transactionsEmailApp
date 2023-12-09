@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.TransactionsToEmail.Api/BankingApplication.TransactionsToEmail.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/BankingApplication.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/BankingApplication.Application.csproj",
+        "projectName": "BankingApplication.Application",
+        "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/BankingApplication.Application.csproj",
+        "packagesPath": "/Users/alicicek/.nuget/packages/",
+        "outputPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alicicek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/BankingApplication.Core.csproj": {
+                "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/BankingApplication.Core.csproj"
+              },
+              "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj": {
+                "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/BankingApplication.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/BankingApplication.Core.csproj",
+        "projectName": "BankingApplication.Core",
+        "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/BankingApplication.Core.csproj",
+        "packagesPath": "/Users/alicicek/.nuget/packages/",
+        "outputPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alicicek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj",
+        "projectName": "BankingApplication.Database",
+        "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj",
+        "packagesPath": "/Users/alicicek/.nuget/packages/",
+        "outputPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alicicek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.TransactionsToEmail.Api/BankingApplication.TransactionsToEmail.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.TransactionsToEmail.Api/BankingApplication.TransactionsToEmail.Api.csproj",
+        "projectName": "BankingApplication.TransactionsToEmail.Api",
+        "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.TransactionsToEmail.Api/BankingApplication.TransactionsToEmail.Api.csproj",
+        "packagesPath": "/Users/alicicek/.nuget/packages/",
+        "outputPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.TransactionsToEmail.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alicicek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/BankingApplication.Application.csproj": {
+                "projectPath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Application/BankingApplication.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

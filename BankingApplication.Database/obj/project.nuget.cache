@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmA1HcJ+x63Gu8jXOb3LMPPbgyWrcFXBCv+bLd6DrEG0xvnrvrGr4HgPjWdbbFsAN/ojAXlumX+2/p3VvPlh7g==",
+  "success": true,
+  "projectFilePath": "/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/BankingApplication.Database.csproj",
+  "expectedPackageFiles": [
+    "/Users/alicicek/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/alicicek/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

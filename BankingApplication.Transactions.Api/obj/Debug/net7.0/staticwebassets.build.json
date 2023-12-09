@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DFaMrtDW/imEWf88NaoHzYyQlBcpPSHmXUTLj5zz47s=",
+  "Source": "BankingApplication.Transactions.Api",
+  "BasePath": "_content/BankingApplication.Transactions.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

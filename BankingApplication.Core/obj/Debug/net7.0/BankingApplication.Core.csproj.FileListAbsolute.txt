@@ -1,0 +1,15 @@
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/bin/Debug/net7.0/BankingApplication.Core.deps.json
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/bin/Debug/net7.0/BankingApplication.Core.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/bin/Debug/net7.0/BankingApplication.Core.pdb
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.AssemblyInfoInputs.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.AssemblyInfo.cs
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.csproj.CoreCompileInputs.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/refint/BankingApplication.Core.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.pdb
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/ref/BankingApplication.Core.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/bin/Debug/net7.0/CsvHelper.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/bin/Debug/net7.0/CsvHelper.xml
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.csproj.AssemblyReference.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Core/obj/Debug/net7.0/BankingApplication.Core.csproj.CopyComplete

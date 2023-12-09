@@ -1,0 +1,17 @@
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/BankingApplication.Database.deps.json
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/BankingApplication.Database.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/BankingApplication.Database.pdb
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/BankingApplication.Core.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/CsvHelper.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/BankingApplication.Core.pdb
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/bin/Debug/net7.0/CsvHelper.xml
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.csproj.AssemblyReference.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.AssemblyInfoInputs.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.AssemblyInfo.cs
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.csproj.CoreCompileInputs.cache
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.csproj.CopyComplete
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/refint/BankingApplication.Database.dll
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/BankingApplication.Database.pdb
+/Users/alicicek/RiderProjects/BankingApplication/BankingApplication.Database/obj/Debug/net7.0/ref/BankingApplication.Database.dll
