@@ -1,0 +1,1 @@
+For authorization and authentication, an attribute can be written and if the endpoints have this attribute, can check the request headers have token or something. And check if the token is valid or not. 
